@@ -49,7 +49,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('http://lareclame.fr/wp-content/uploads/2016/06/17-Chatons-dOr-Mention-print-libre-potatoas-adam-et-julien_2.png');
+    background-image: url('images/HOME-BG.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -201,4 +201,26 @@ footer p
 .social
 {
     padding-top: 50px;
+}
+/*MODIFS*/
+section#about {
+    height: 800px;
+}
+
+section.exemple {
+    text-align: center;
+    background-color: #dadada;
+    color: #555555;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+section.exemple img{
+    height: 200px;
+}
+
+
+section.exemple2 {
+    text-align: center;
+    background-color: #ffffff
 }
